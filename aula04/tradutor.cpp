@@ -5,7 +5,7 @@
 
 // INFIXA --> PREFIXA
 // INFIXA => 1+2*5+6/2
-// PREFIXA => ++1*25/62
+// PREFIXA => +1+*25/62
 
 // 1-2+3-5
 // -+- (LIFO-PILHA) 1235 (FIFO - LISTA)
